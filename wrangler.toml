@@ -9,7 +9,7 @@ compatibility_flags = ["nodejs_compat"]
 assets = { directory = ".open-next/assets", binding = "ASSETS" }
 
 # replace with your settings
-[[d1_databases]]
-binding = "DB"
-database_name = "opennext-cf"
-database_id = "6f935ec4-8a5c-4f21-a9d6-519dc216317a"
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "opennext-cf"
+# database_id = "6f935ec4-8a5c-4f21-a9d6-519dc216317a"
