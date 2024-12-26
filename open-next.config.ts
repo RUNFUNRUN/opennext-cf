@@ -1,7 +1,6 @@
-import type { OpenNextConfig } from "@opennextjs/aws/types/open-next";
 import cache from "@opennextjs/cloudflare/kvCache";
 
-const config: OpenNextConfig = {
+const config = {
   default: {
     override: {
       wrapper: "cloudflare-node",
